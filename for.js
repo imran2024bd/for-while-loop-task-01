@@ -1,5 +1,9 @@
 //*********************************************************** */
-
+// let fruits = [ 'apple', 'orange' , 'banana']
+// for( const fruit of fruits){
+//     console.log(fruit);
+//     console.log(' i want to eat');
+// }
 // ------------for ---Loop _ Structure______________________
 
 // for( first part ; Second part ; third part){
@@ -93,16 +97,26 @@
 
 // And Continue ==>> skip this iteration
 
-for (let i = 0; i < 10; i++) {
-   if (i % 2 === 1) {
-    continue;
+// for (let i = 0; i < 10; i++) {
+//    if (i % 2 === 1) {
+//     continue;
+//    }
+//    console.log(i);
+// }
+
+
+
+// for (let i = 0; i < 5; i+=3) {
+//     console.log(i);
+//   }
+  const array = [1, 2, 3, 4, 5, 6, 7];
+
+  for (let i = 1; i < array.length; i++) {
+    if (i == 5) {
+     continue;
+    }
+    console.log(array[i]);
    }
-   console.log(i);
-}
-
-
-
-
 
 
 
