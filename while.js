@@ -10,14 +10,22 @@
 // }
 // console.log(' to write a new number');
 
-//------------While ---Loop______________________
+//****************************************************************** */
+
+// ------------While ---Loop _ Structure______________________
 // let num = 0;  // loop variable
-// while (num < 5) {
-//     console.log('looping' , num);
-//     // num = num + 1 ;
+// while (num < 5) {  // loop condition
+//     console.log('looping' , num);  // loop statement
+//     // num = num + 1 ;   // loop variable change
 //     // num += 1;
 //     num++;
 // }
+
+
+//****************************************************************** */
+
+//------------While ---Loop _ Application______________________
+
 // to write down to 10
 // let num = 1;
 // while (num <= 10) {
@@ -25,12 +33,19 @@
 //     num++;
 // }
 
+//****************************************************************** */
+
 // to write down 50 to 100
 // let num = 50;
 // while (num <= 100) {
 //     console.log(num);
 //     num++;
 // }
+
+
+//****************************************************************** */
+
+
 
 // addition the number of 1 to 10 by while loop
 
@@ -44,7 +59,10 @@
 // }
 
 
-//*************************************** */
+
+//****************************************************************** */
+
+
 
 // addition the number of even number by while loop
 

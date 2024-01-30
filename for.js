@@ -1,14 +1,39 @@
-// const numbers = [12, 98, 45, 63, 21, 72];
-// console.log(numbers);
 
-// for (const num of numbers) {
-//     console.log(num);
+//*********************************************************** */
+
+// ------------for ---Loop _ Structure______________________
+
+// for( first part ; Second part ; third part){
+//     loop statement
+// }
+
+// for (loop variable declaration; loop condition; loop variable change) {
+//     loop statement to print
+    
+// }
+
+// for (let index = 0; index < array.length; index++) {
+//     const element = array[index];
     
 // }
 
 
-const fruits = ['orange', 'apple', 'banana', 'jackfruit']
+//*********************************************************** */
+// ----While ---Loop
+// let num = 0;
+// while (num <=5) {
+//     console.log(num);
+//     num++;
+    
+// }
 
-for (const fruit of fruits){
-    console.log(fruit);
+
+//*********************************************************** */
+// ----for ---Loop
+
+for (let num = 0; num <= 5; num++) {
+    console.log(num);
+    
 }
+
+
