@@ -67,7 +67,42 @@
     
 // }
 
-for (let i = 1; i <= 20; i+=2) {
-    console.log(i);
+// for (let i = 1; i <= 20; i+=2) {
+//     console.log(i);
     
+// }
+
+
+
+//*********************************************************** */
+
+// 18_7 When To Use A Break ==>>  i am done with this loop, loop end
+// And Continue ==>> skip this iteration
+
+// for (let i = 0; i < 150; i++) {
+//     console.log(i);
+//     if (i >= 5) {
+//         break;
+//     }
+    
+// }
+// console.log('here loops end');
+
+
+//*********************************************************** */
+
+// And Continue ==>> skip this iteration
+
+for (let i = 0; i < 10; i++) {
+   if (i % 2 === 1) {
+    continue;
+   }
+   console.log(i);
 }
+
+
+
+
+
+
+

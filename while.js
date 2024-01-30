@@ -85,8 +85,37 @@
 //     n--;
 // }
 
-let n = 10;
-while (n > 0) {
-    console.log(n);
-    n--;
-}
+// let n = 10;
+// while (n > 0) {
+//     console.log(n);
+//     n--;
+// }
+
+//****************************************************************** */
+
+
+
+// 18_7 When To Use A Break by while loop
+// let n = 54;
+// while (n > 25) {
+//     console.log(n);
+//     if (n < 50) {
+//         break;
+//     }
+//     n--;
+// }
+
+
+// while continue loop
+// let n = 0;
+// while (n < 15) {
+//     n++;
+//     if ( n % 5 !== 0) {
+//         continue
+//     }
+//     console.log(n);
+// }
+
+
+//****************************************************************** */
+
