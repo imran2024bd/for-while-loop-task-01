@@ -119,8 +119,28 @@
 
 //  decremental 20 to 11 by for loop
 
-for (let i = 20; i >= 11 ; i--) {
-   console.log(i);
+// for (let i = 20; i >= 11 ; i--) {
+//    console.log(i);
   
-}
+// }
 
+
+//*********************************************************** */
+
+// Different ways to use loop
+
+// for odd number by using % ( modulus)
+// for (let i = 0; i < 20; i++) {
+//    if (i%2 ===1) {
+//       console.log(i);
+//    }
+//   }
+
+
+// alternative
+for (let i = 0; i < 20; i++) {
+   if (i%2 !==0 ) {
+      console.log(i);
+   }
+   
+}
