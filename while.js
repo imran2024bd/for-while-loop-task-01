@@ -66,11 +66,27 @@
 
 // addition the number of even number by while loop
 
-let num = 1;
-while (num <=10) {
-    console.log(num);
-    if (num % 2 ===0) {
-        console.log('even number :', num);
-    }
-    num++;
+// let num = 1;
+// while (num <=10) {
+//     console.log(num);
+//     if (num % 2 ===0) {
+//         console.log('even number :', num);
+//     }
+//     num++;
+// }
+
+//****************************************************************** */
+
+// decremental by while loop
+
+// let n = 10;
+// while (n >= 0) {
+//     console.log(n);
+//     n--;
+// }
+
+let n = 10;
+while (n > 0) {
+    console.log(n);
+    n--;
 }
